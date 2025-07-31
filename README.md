@@ -32,13 +32,13 @@ A collaborative deep-dive into the dynamics of portfolio volatility using the Or
 - The first two PCA components captured the majority of systemic return variance.  
 - GARCH(1,1) models revealed strong persistence and evident volatility clustering. 
 - Covariance matrix reconstruction visualized changing correlations across time. 
-- Portfolio volatility fluctuated across weighting schemes—highlighting the importance of allocation mechanics.
+- Portfolio volatility fluctuated across weighting schemes, highlighting the importance of allocation mechanics.
 - Strategic analysis suggested varying contribution of sectoral assets to total volatility risk.
 
 ---
 
 ## 💼 Risk Management Implications
-Through orthogonal decomposition and conditional variance modeling, this project demonstrates how volatility shifts across components can reshape portfolio risk. The findings suggest that optimized allocations—guided by risk factor insights—can enhance resilience in volatile market regimes, particularly in emerging economies like South Africa.
+Through orthogonal decomposition and conditional variance modeling, this project demonstrates how volatility shifts across components can reshape portfolio risk. The findings suggest that optimized allocations guided by insights into risk factors can enhance resilience in volatile market regimes, particularly in emerging economies such as South Africa.
 
 ---
 
