@@ -23,7 +23,7 @@ A collaborative deep-dive into the dynamics of portfolio volatility using the Or
 ---
 
 ## 🧠 Tools Used
-- **Python**: NumPy, Pandas, Matplotlib, Seaborn, arch, statsmodels. 
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn, arch, statsmodels, sklearn. 
 - **Jupyter Notebook**: for code execution and analysis. 
 
 ---
