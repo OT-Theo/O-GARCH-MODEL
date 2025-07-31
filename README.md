@@ -1,5 +1,5 @@
 # O-GARCH-MODEL
-A collaborative deep-dive into the dynamics of portfolio volatility using the Orthogonal GARCH (O-GARCH) framework—applied to five actively traded stocks listed on the JSE. Developed as a capstone group project for the Risk Measurement 1 module in the BCom Honours in Quantitative Finance program at the University of Johannesburg, this repository showcases the intersection of theory, data, and teamwork in quantitative risk modeling.
+A collaborative deep-dive into the dynamics of portfolio volatility using the Orthogonal GARCH (O-GARCH) framework applied to five actively traded stocks listed on the JSE. Developed as a capstone group project for the Risk Measurement 1 module in the BCom Honours in Quantitative Finance program at the University of Johannesburg, this repository showcases the intersection of theory, data, and teamwork in quantitative risk modeling.
 
 ---
 
